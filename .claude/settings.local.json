@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"c:/Users/guill/OneDrive/Documentos/PROYECTOS/Mi Portafolio Ejecutivo/index.html\")",
+      "Bash(python transform2.py)",
+      "Bash(python -c \":*)",
+      "Bash(ls -la \"c:/Users/guill/OneDrive/Documentos/PROYECTOS/Mi Portafolio Ejecutivo/foto perfil\"*)"
+    ]
+  }
+}
